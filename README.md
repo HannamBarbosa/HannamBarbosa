@@ -2,7 +2,7 @@
   <h1 >Hello There 🖖</h1>
   <h3 >Welcome to my Profile</h3>  
   <hr>
-  <p align="justify">Fala galerinha, tudo bem? Me chamo Hannam Barbosa, tenho 22 anos, e hoje estou trabalhando com Analista de Suporte, mas meu grande sonho é trabalhar algum dia como desenvolvedor. Embarque nessa aventura comigo e sinta-se a vontade, e que todos nós cosquite a nossa Laugh Tale e sonhos 😁</p>
+  <p align="justify">Fala galerinha, tudo bem? Me chamo Hannam Barbosa, tenho 22 anos, e hoje estou trabalhando com Analista de Suporte, mas meu grande sonho é trabalhar algum dia como desenvolvedor. Embarque nessa aventura comigo e sinta-se a vontade, e que todos nós cosquite a nossa Laugh Tale e sonhos 😁🏴‍☠️</p>
 </div>
 
 <div><br>
