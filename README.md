@@ -11,6 +11,9 @@ Estou iniciando essa jornada e quero compartilhar meus estudos, inovações e pr
 
 <div><br>
   <h6>Estudando</h6>
+ 
+  <img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/06b2c2ed-8b0f-43ba-8c64-0c59ad5a261f">
+  <img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/b9f72a6d-3853-4143-a014-0c0a6583f484">
   <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000">
   <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=fUGx53gD9Jof&format=png&color=000000">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
