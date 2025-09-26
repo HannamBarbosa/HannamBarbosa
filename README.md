@@ -3,7 +3,7 @@
   <hr>
   <p align="justify">Fala, pessoal! Tudo certo?
 
-Me chamo Hannam Barbosa, tenho 23 anos e atualmente trabalho como Analista de Monitoramento. Meu objetivo é aprender ao máximo sobre NOC e SOC, mergulhando de cabeça nessa nova área cheia de desafios e aprendizado.
+Me chamo Hannam Barbosa, tenho 24 anos e atualmente trabalho como Analista de Monitoramento. Meu objetivo é aprender ao máximo sobre NOC e SOC, mergulhando de cabeça nessa nova área cheia de desafios e aprendizado.
 
 Estou iniciando essa jornada e quero compartilhar meus estudos, inovações e processos em posts públicos para toda a comunidade. Bora crescer juntos! 🚀📚🤓.</p>
 </div>
